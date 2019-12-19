@@ -1,3 +1,6 @@
+"""promblem solved for the Talk Python course
+https://github.com/talkpython/100daysofcode-with-python-course"""
+
 import datetime
 from datetime import date, timedelta
 
