@@ -1,4 +1,4 @@
-"""promblems solved for the Talk Python course
+"""problems solved for the Talk Python course
 https://github.com/talkpython/100daysofcode-with-python-course"""
 
 from datetime import date, timedelta
